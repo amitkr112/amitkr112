@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Amit Kumar from IIT BHU 
+- 👀 I’m interested in competetive programming and web development
+- 🌱 I’m currently learning algorithms and full stack wev development in MERN stack
+- 📫 How to reach me :Email :ak8363247@gmail.com
